@@ -1,10 +1,15 @@
 {
-    "name": "laravel/laravel",
+    "name": "xqsit94/laravel-webservice-example-boilerplate",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel webservice example/boilerplate using laravel 7.x, Sanctum and Facades pattern. Clone and add your own functionalities",
     "keywords": [
-        "framework",
-        "laravel"
+        "laravel",
+        "laravel7",
+        "webservice",
+        "sanctum",
+        "api",
+        "facades-pattern",
+        "boilerplate"
     ],
     "license": "MIT",
     "require": {
